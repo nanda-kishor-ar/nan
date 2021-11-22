@@ -14,7 +14,7 @@ for dic in range(len(a4)):
 
     
 
-uid1 = 686039969
+uid1 =0
 def getupdate(offset , limit=50 , timeout=0 , a_w =[]):
     params1 = {'offset': offset,
                 'limit' : limit,
