@@ -1,6 +1,6 @@
 import requests , json
 
-token = '2094418991:AAHImLrzn9IgLQdN1cZgi_RlcKLhkiQ_5vY'
+token = ' '
 
 url = f'https://api.telegram.org/bot{token}/getUpdates'
 url1 = 'https://pokeapi.co/api/v2/pokemon?limit=9999'
